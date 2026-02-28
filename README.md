@@ -3,6 +3,8 @@
 Bu proje, Mobile App Geliştirme Challenge kapsamında geliştirilmiş bir mobil uygulamadır.
 Amaç: Akılcı ilaç kullanımını desteklemek, doğru ilaç hazırlama adımlarını öğretmek ve kullanıcıyı bilgilendirmektir.
 
+Yt link: https://youtu.be/4OVmBlcvxbU
+
 🚀 Kullanılan Teknolojiler
 
 Expo (React Native)
