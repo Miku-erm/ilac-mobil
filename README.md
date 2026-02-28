@@ -4,6 +4,7 @@ Bu proje, Mobile App Geliştirme Challenge kapsamında geliştirilmiş bir mobil
 Amaç: Akılcı ilaç kullanımını desteklemek, doğru ilaç hazırlama adımlarını öğretmek ve kullanıcıyı bilgilendirmektir.
 
 Yt link: https://youtu.be/4OVmBlcvxbU
+
 APK link: android/settings.gradle satır 21’de kullanılan com.facebook.react.settings Gradle plugin’i uyumsuz EAS cloud kaynaklı (React Native Gradle plugin setup eksik/uyumsuz)
 
 🚀 Kullanılan Teknolojiler
