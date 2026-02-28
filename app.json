@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Akilli Ilac Asistani",
+    "slug": "ilac-asistani",
+    "version": "1.0.0",
+    "platforms": ["android", "ios", "web"],
+    "jsEngine": "jsc",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
